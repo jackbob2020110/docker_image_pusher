@@ -1,1 +1,1 @@
-prom/node-explorer:latest
+prom/node-exporter:latest
