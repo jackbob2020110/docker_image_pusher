@@ -2,3 +2,14 @@ prom/node-exporter:v1.8.1
 
 #Selenium chrome
 selenium/standalone-chrome:4.21.0-20240522
+selenium/standalone-firefox:4.21.0-20240522
+selenium/standalone-edge:4.21.0-20240522
+
+#Selenium Grid
+selenium/hub:4.21.0-20240522
+selenium/node-chrome:4.21.0-20240522
+selenium/node-firefox:4.21.0-20240522
+selenium/node-edge:4.21.0-20240522
+
+mcr.microsoft.com/playwright/python:v1.44.0-jammy
+
