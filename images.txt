@@ -1,1 +1,4 @@
 prom/node-exporter:v1.8.1
+
+#Selenium chrome
+selenium/standalone-chrome:4.21.0-20240522
