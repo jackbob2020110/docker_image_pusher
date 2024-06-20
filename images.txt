@@ -1,16 +1,5 @@
-prom/node-exporter:v1.8.1
-
-#Selenium chrome
-selenium/standalone-chrome:4.21.0-20240522
-selenium/standalone-firefox:4.21.0-20240522
-selenium/standalone-edge:4.21.0-20240522
-
-#Selenium Grid
-selenium/hub:4.21.0-20240522
-selenium/node-chrome:4.21.0-20240522
-selenium/node-firefox:4.21.0-20240522
-selenium/node-edge:4.21.0-20240522
-
-mcr.microsoft.com/playwright/python:v1.44.0-jammy
-
-alpine:3.11.6
+nginx:1.17.10-alpine
+telegraf:1.14.1-alpine
+influxdb:1.8.0-alpine
+chronograf:1.8.2-alpine
+kapacitor:1.5.4-alpine
