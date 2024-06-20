@@ -1,5 +1,1 @@
-nginx:1.17.10-alpine
-telegraf:1.14.1-alpine
-influxdb:1.8.0-alpine
-chronograf:1.8.2-alpine
-kapacitor:1.5.4-alpine
+vimagick/rsyslog
