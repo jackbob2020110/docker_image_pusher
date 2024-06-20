@@ -13,3 +13,4 @@ selenium/node-edge:4.21.0-20240522
 
 mcr.microsoft.com/playwright/python:v1.44.0-jammy
 
+alpine:3.11.6
