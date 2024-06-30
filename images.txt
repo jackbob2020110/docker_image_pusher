@@ -1,6 +1,10 @@
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
 #registry.k8s.io/ingress-nginx/controller:v1.10.1
-selenium/hub:4.22.0-20240621
-selenium/node-chrome:4.22.0-20240621
-selenium/node-edge:4.22.0-20240621
-selenium/node-firefox:4.22.0-20240621
+#selenium/hub:4.22.0-20240621
+#selenium/node-chrome:4.22.0-20240621
+#selenium/node-edge:4.22.0-20240621
+#selenium/node-firefox:4.22.0-20240621
+
+ghcr.io/kedacore/keda-admission-webhooks:2.14.0
+ghcr.io/kedacore/keda-metrics-apiserver:2.14.0
+ghcr.io/kedacore/keda:2.14.0
