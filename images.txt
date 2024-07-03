@@ -5,6 +5,9 @@
 #selenium/node-edge:4.22.0-20240621
 #selenium/node-firefox:4.22.0-20240621
 
-ghcr.io/kedacore/keda-admission-webhooks:2.14.0
-ghcr.io/kedacore/keda-metrics-apiserver:2.14.0
-ghcr.io/kedacore/keda:2.14.0
+#ghcr.io/kedacore/keda-admission-webhooks:2.14.0
+#ghcr.io/kedacore/keda-metrics-apiserver:2.14.0
+#ghcr.io/kedacore/keda:2.14.0
+
+# playwright for Node.js
+mcr.microsoft.com/playwright:v1.45.0-jammy
