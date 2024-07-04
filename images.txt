@@ -10,4 +10,7 @@
 #ghcr.io/kedacore/keda:2.14.0
 
 # playwright for Node.js
-mcr.microsoft.com/playwright:v1.45.0-jammy
+# mcr.microsoft.com/playwright:v1.45.0-jammy
+
+# jenkins
+bitnami/jenkins:2.452.2-debian-12-r2
