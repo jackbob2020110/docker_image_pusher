@@ -13,4 +13,5 @@
 # mcr.microsoft.com/playwright:v1.45.0-jammy
 
 # jenkins
-bitnami/jenkins:2.452.2-debian-12-r2
+#bitnami/jenkins:2.452.2-debian-12-r2
+bitnami/jenkins:2.440.3-debian-12-r6
