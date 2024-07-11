@@ -13,8 +13,12 @@
 # mcr.microsoft.com/playwright:v1.45.0-jammy
 
 # jenkins
-bitnami/jenkins:2.452.2
+#bitnami/jenkins:2.452.2
 #bitnami/jenkins:2.440.3-debian-12-r6
 
-bitnami/postgresql:16
-bitnami/sonarqube:9.9.6
+#bitnami/postgresql:16
+#bitnami/sonarqube:9.9.6
+
+docker.io/calico/cni:v3.25.0
+docker.io/calico/node:v3.25.0
+docker.io/calico/kube-controllers:v3.25.0
