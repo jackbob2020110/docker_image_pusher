@@ -19,6 +19,9 @@
 #bitnami/postgresql:16
 #bitnami/sonarqube:9.9.6
 
-docker.io/calico/cni:v3.25.0
-docker.io/calico/node:v3.25.0
-docker.io/calico/kube-controllers:v3.25.0
+#docker.io/calico/cni:v3.25.0
+#docker.io/calico/node:v3.25.0
+#docker.io/calico/kube-controllers:v3.25.0
+
+#gitlab runner
+gitlab/gitlab-runner:v14.6.1
