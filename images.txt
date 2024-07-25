@@ -24,4 +24,8 @@
 #docker.io/calico/kube-controllers:v3.25.0
 
 #gitlab runner
-gitlab/gitlab-runner:v14.6.1
+#gitlab/gitlab-runner:v14.6.1
+
+kubesphere/ks-installer:v3.4.0
+jenkins/inbound-agent:jdk17
+
