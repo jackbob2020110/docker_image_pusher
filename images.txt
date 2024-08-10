@@ -36,4 +36,6 @@
 #calico/node:v3.28.1
 #calico/kube-controllers:v3.28.1
 
-mcr.microsoft.com/playwright/python:v1.45.1-jammy
+#mcr.microsoft.com/playwright/python:v1.45.1-jammy
+
+docker pull linuxserver/webtop:ubuntu-mate
