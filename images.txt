@@ -38,4 +38,4 @@
 
 #mcr.microsoft.com/playwright/python:v1.45.1-jammy
 
-docker pull linuxserver/webtop:ubuntu-mate
+linuxserver/webtop:ubuntu-mate
