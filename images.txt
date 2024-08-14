@@ -38,4 +38,5 @@
 
 #mcr.microsoft.com/playwright/python:v1.45.1-jammy
 
-linuxserver/webtop:ubuntu-mate
+#linuxserver/webtop:ubuntu-mate
+jenkins/jenkins:2.472-jdk17
