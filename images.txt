@@ -41,7 +41,9 @@
 #linuxserver/webtop:ubuntu-mate
 #jenkins/jenkins:2.472-jdk17
 # Pull docker-selenium
-elgalu/selenium
+#elgalu/selenium
 
 # Pull Zalenium
-dosel/zalenium
+#dosel/zalenium
+
+prom/alertmanager
