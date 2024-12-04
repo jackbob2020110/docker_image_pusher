@@ -1,12 +1,15 @@
+clowa/powershell-core:7.4.6
+
+
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
 #registry.k8s.io/ingress-nginx/controller:v1.10.1
-selenium/hub:4.26.0-20241101
-selenium/node-chrome:4.26.0-20241101
-selenium/node-edge:4.26.0-20241101
-selenium/node-firefox:4.26.0-20241101
-selenium/standalone-chrome:4.26.0-20241101
-selenium/standalone-edge:4.26.0-20241101
-selenium/standalone-firefox:4.26.0-20241101
+#selenium/hub:4.26.0-20241101
+#selenium/node-chrome:4.26.0-20241101
+#selenium/node-edge:4.26.0-20241101
+#selenium/node-firefox:4.26.0-20241101
+#selenium/standalone-chrome:4.26.0-20241101
+#selenium/standalone-edge:4.26.0-20241101
+#selenium/standalone-firefox:4.26.0-20241101
 
 #ghcr.io/kedacore/keda-admission-webhooks:2.14.0
 #ghcr.io/kedacore/keda-metrics-apiserver:2.14.0
