@@ -1,4 +1,5 @@
-clowa/powershell-core:7.4.6
+#clowa/powershell-core:7.4.6
+mcr.microsoft.com/playwright/python:v1.49.0-noble
 
 
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
