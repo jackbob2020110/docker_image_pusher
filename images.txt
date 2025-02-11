@@ -1,4 +1,5 @@
-frankescobar/allure-docker-service
+#frankescobar/allure-docker-service
+frankescobar/allure-docker-service-ui
 
 #dpanel/dpanel:lite
 #gogs/gogs
