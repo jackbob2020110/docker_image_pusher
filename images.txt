@@ -1,5 +1,6 @@
+python:3.8-alpine
 #frankescobar/allure-docker-service
-frankescobar/allure-docker-service-ui
+#frankescobar/allure-docker-service-ui
 
 #dpanel/dpanel:lite
 #gogs/gogs
