@@ -1,4 +1,7 @@
-python:3.8-alpine
+postgres:15-alpine
+ghcr.io/requarks/wiki:2
+
+#python:3.8-alpine
 #frankescobar/allure-docker-service
 #frankescobar/allure-docker-service-ui
 
