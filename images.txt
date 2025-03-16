@@ -1,5 +1,7 @@
-postgres:15-alpine
-ghcr.io/requarks/wiki:2
+1panel/maxkb
+#postgres:15-alpine
+#ghcr.io/requarks/wiki:2
+
 
 #python:3.8-alpine
 #frankescobar/allure-docker-service
