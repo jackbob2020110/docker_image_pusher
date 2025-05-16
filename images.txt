@@ -1,4 +1,14 @@
-cschranz/gpu-jupyter:v1.9_cuda-12.6_ubuntu-24.04
+
+#youdao
+docker.elastic.co/elasticsearch/elasticsearch:8.13.2
+quay.io/coreos/etcd:v3.5.5
+minio/minio:RELEASE.2023-03-20T20-16-18Z
+milvusdb/milvus:v2.4.8
+mysql:8.4
+xixihahaliu01/qanything-linux:v1.5.1
+
+
+#cschranz/gpu-jupyter:v1.9_cuda-12.6_ubuntu-24.04
 #1panel/maxkb
 #postgres:15-alpine
 #ghcr.io/requarks/wiki:2
